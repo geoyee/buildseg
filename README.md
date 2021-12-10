@@ -9,6 +9,8 @@
 
 buildseg is a Building Extraction plugin for QGIS based on PaddlePaddle.
 
+**Note: This repo will not be updated, and relevant work and maintenance updates are in [deepbands/buildseg](https://github.com/deepbands/buildseg).**
+
 ![fds](https://user-images.githubusercontent.com/71769312/144746418-cdbb2d5a-32f8-49e3-bc42-d5d2d3e6810f.gif)
 
 ## How to use
